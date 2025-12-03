@@ -48,3 +48,10 @@ Cursive appear when we use \_text\_ or \*text\* Example:
 1. *Text* = \_text\_ or \*text\*
 2. **Text** = \_\_text\_\_ or \*\*text\*\*
 3. ***Text*** = \_\_\_text\_\_\_ or \*\*\*text\*\*\*
+
+# 4 Horizontal lines
+3 and more symbols(_ - *)
+
+---
+***
+____
