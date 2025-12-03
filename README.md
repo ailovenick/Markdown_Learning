@@ -31,11 +31,13 @@ good rule is miss 1 line after title
 
 ### Numeral list
 1. Syntax is simply
+    1. Nested list1 (4 spaces)
+    2. Nested kist2
 2. Number + dot
 3. Easy
 
 ### Nameless list
 * Syntax different, * + - same result
-* Minus
-* Plus
+    * Minus (4 spaces) nested list
+    * Plus
 * Star
