@@ -41,3 +41,10 @@ good rule is miss 1 line after title
     * Minus (4 spaces) nested list
     * Plus
 * Star
+
+# 3 Type of cursive
+
+Cursive appear when we use \_text\_ or \*text\* Example:
+1. *Text* = \_text\_ or \*text\*
+2. **Text** = \_\_text\_\_ or \*\*text\*\*
+3. ***Text*** = \_\_\_text\_\_\_ or \*\*\*text\*\*\*
