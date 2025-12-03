@@ -26,3 +26,16 @@ good rule is miss 1 line after title
 ###### Title 6 = 6*\#
 
 ####### Title 7 = 7*\# - it dont work like a title
+
+# Lists
+
+### Numeral list
+1. Syntax is simply
+2. Number + dot
+3. Easy
+
+### Nameless list
+* Syntax different, * + - same result
+* Minus
+* Plus
+* Star
