@@ -55,3 +55,19 @@ Cursive appear when we use \_text\_ or \*text\* Example:
 ---
 ***
 ____
+
+# 5 Code in md
+* one line code, use by \`code\` `print("Hello World")`
+* some lines, use by \`\`\`python(for color syntax)  
+*code*\`\`\`   
+```python
+def factorial(n):
+    """Calculate factorial n"""
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n - 1)
+
+result = factorial(5)
+print(f"factorial is {result}")
+```
