@@ -1,3 +1,5 @@
+<a id="readme-head"></a>
+
 ## 1 line without 2 spaces or miss line:
 first message in README.md
 first message in README.md
@@ -82,3 +84,29 @@ ____
 > This is simple example qoute
 >
 > End quote
+
+# Links
+
+### syntax .md
+
+* https://github.com/ailovenick/Markdown_Learning = without symbols, just link  
+* <https://github.com/ailovenick/Markdown_Learning> = \<\>  
+* [my project](https://github.com/ailovenick/Markdown_Learning) = \[my project\]\(https://github.com/ailovenick/Markdown_Learning\)  
+* [my project](https://github.com/ailovenick/Markdown_Learning "text") = \[my project\]\(https://github.com/ailovenick/Markdown_Learning \"text\"\)
+* [back to top](https://github.com/ailovenick/Markdown_Learning/edit/main/README.md#1-line-without-2-spaces-or-miss-line) = `[back to top](https://github.com/ailovenick/Markdown_Learning/edit/main/README.md#1-line-without-2-spaces-or-miss-line)`
+
+### syntax html
+
+* `<a id="readme-head"></a>` = label follow
+* `<a href=#readme-head> This link follow back to top </a>` = <a href=#readme-head> This link follow back to top </a>
+* `<p align=right><a href=#readme-head> This link follow back to top </a><p>` = <p align=right><a href=#readme-head> This link follow back to top </a><p>
+
+<details>
+    <summary> Test html list </summary>
+    <ol>
+        <li> 1 line </li>
+        <li> 2 line </li>
+        <li> 3 line </li>
+        <li> <a href=#readme-head>link go to top</a></li>
+    </ol>
+</details>
