@@ -49,14 +49,14 @@ Cursive appear when we use \_text\_ or \*text\* Example:
 2. **Text** = \_\_text\_\_ or \*\*text\*\*
 3. ***Text*** = \_\_\_text\_\_\_ or \*\*\*text\*\*\*
 
-# 4 Horizontal lines
+# Horizontal lines
 3 and more symbols(_ - *)
 
 ---
 ***
 ____
 
-# 5 Code in md
+# Code in md
 * one line code, use by \`code\` `print("Hello World")`
 * some lines, use by \`\`\`python(for color syntax)  
 *code*\`\`\`   
