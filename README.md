@@ -58,16 +58,18 @@ ____
 
 # Code in md
 * one line code, use by \`code\` `print("Hello World")`
-* some lines, use by \`\`\`python(for color syntax)  
+* some lines, use by \`\`\`python(for color syntax) or 4 spaces
 *code*\`\`\`   
 ```python
-def factorial(n):
-    """Calculate factorial n"""
-    if n == 0:
-        return 1
-    else:
-        return n * factorial(n - 1)
-
-result = factorial(5)
-print(f"factorial is {result}")
+    def factorial(n):
+        """Calculate factorial n"""
+        if n == 0:
+            return 1
+        else:
+            return n * factorial(n - 1)
+    
+    result = factorial(5)
+    print(f"factorial is {result}")
 ```
+
+
