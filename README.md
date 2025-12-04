@@ -110,3 +110,13 @@ ____
         <li> <a href=#readme-head>link go to top</a></li>
     </ol>
 </details>
+
+# Pictures
+
+1. Just image: `![Alternative text](https://github.com/ailovenick/Markdown_Learning/blob/main/pictures/md_person.webp)`
+
+![Alternative text](https://github.com/ailovenick/Markdown_Learning/blob/main/pictures/md_person.webp)
+
+2. Image with link: `[![Alternative text](https://github.com/ailovenick/Markdown_Learning/blob/main/pictures/md_person2.webp)](https://github.com/ailovenick/Markdown_Learning)`
+
+[![Alternative text](https://github.com/ailovenick/Markdown_Learning/blob/main/pictures/md_person2.webp)](https://github.com/ailovenick/Markdown_Learning)
