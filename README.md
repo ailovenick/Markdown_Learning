@@ -72,4 +72,7 @@ ____
     print(f"factorial is {result}")
 ```
 
+# Fence for special symbols
 
+\\* = *  
+\\ = \\\
