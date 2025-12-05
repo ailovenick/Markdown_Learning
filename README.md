@@ -120,3 +120,12 @@ ____
 2. Image with link: `[![Alternative text](https://github.com/ailovenick/Markdown_Learning/blob/main/pictures/md_person2.webp)](https://github.com/ailovenick/Markdown_Learning)`
 
 [![Alternative text](https://github.com/ailovenick/Markdown_Learning/blob/main/pictures/md_person2.webp)](https://github.com/ailovenick/Markdown_Learning)
+
+# Check Boxes
+
+- [x] First task   `- [x] First task`
+- [x] Second task
+- [x] Third task  
+    - [ ] subtask  
+    - [ ] subtask  
+- [ ] Last task
