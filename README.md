@@ -134,13 +134,13 @@ ____
 
 ```
 | title1 | title2 | title3 |
-|--------|------|-------:|
-| cell1 | cell2 | cell3 sdsdsdsdd|
-| cell11| cell22| cell33|
+|:--------|:------:|-------:|
+| dsdscell1sdsd | sdsdscell2 | cell3 sdsdsdsdd|
+| sdsdcell11sdsd| sdsdscell22| sdsdsdcell33|
 |<img src="https://helder.design/wp-content/uploads/2023/09/Logo.svg" width=50>|<img src="https://helder.design/wp-content/uploads/2023/09/Logo.svg" width=50>|<img src="https://helder.design/wp-content/uploads/2023/09/Logo.svg" width=50>|
 ```
 | title1 | title2 | title3 |
-|--------|------|-------:|
-| cell1 | cell2 | cell3 sdsdsdsdd|
-| cell11| cell22| cell33|
+|:--------|:------:|-------:|
+| dsdscell1sdsd | sdsdscell2 | cell3 sdsdsdsdd|
+| sdsdcell11sdsd| sdsdscell22| sdsdsdcell33|
 |<img src="https://helder.design/wp-content/uploads/2023/09/Logo.svg" width=50>|<img src="https://helder.design/wp-content/uploads/2023/09/Logo.svg" width=50>|<img src="https://helder.design/wp-content/uploads/2023/09/Logo.svg" width=50>|
