@@ -159,3 +159,12 @@ hello wotld -->
 hello world hello world
 hello wotld -->`
 
+# Emoji 
+
+`:rocket: Запускаем проект!`  
+`:white_check_mark: Задача выполнена`   
+`:x: Ошибка`
+
+:rocket: Запускаем проект!  
+:white_check_mark: Задача выполнена  
+:x: Ошибка  
